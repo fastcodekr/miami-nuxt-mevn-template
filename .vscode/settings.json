@@ -1,0 +1,5 @@
+{
+    "javascript.validate.enable": true,
+    "javascript.suggestionActions.enabled": false
+}
+//https://stackoverflow.com/questions/49582984/how-do-i-disable-js-file-is-a-commonjs-module-it-may-be-converted-to-an-es6
